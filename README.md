@@ -20,7 +20,7 @@ Getting Started:
 
 To use the WestJet chatbot, run the westjet_chatbot.py script in your Python environment. The script will begin running and prompt the user for input.
 
-To access the SQLite database created by prompt 5, run the westjet_claims.py script. The script will showcase all relevant data that the user has inputted.
+To access the SQLite database created by prompt 5, run the database_query.py script. The script will showcase all relevant data that the user has inputted.
 
 Requirements:
 
